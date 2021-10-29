@@ -37,15 +37,24 @@ https://data.bls.gov/cgi-bin/surveymost?ln
 
 # Data Manipulation  and analysis:
 The following include snippets of what we did to clean and analyze the data. 
+
 ### Reading / Data frame: 
+
 <img width="899" alt="Screen Shot 2021-10-28 at 7 09 12 PM" src="https://user-images.githubusercontent.com/89117449/139351763-66d3117e-f2fa-4278-8d9d-c87998ca6391.png">
+
 ### Cleaning: 
+
 <img width="927" alt="Screen Shot 2021-10-28 at 7 10 02 PM" src="https://user-images.githubusercontent.com/89117449/139351805-8ca8e79d-bb1c-4b84-b4fb-7802833497f8.png">
+
 ### Visuals: 
+
 <img width="697" alt="Screen Shot 2021-10-28 at 7 14 43 PM" src="https://user-images.githubusercontent.com/89117449/139351830-da9ef9e3-5fed-42eb-ad08-22166c6dc3bc.png">
 <img width="684" alt="Screen Shot 2021-10-28 at 7 15 23 PM" src="https://user-images.githubusercontent.com/89117449/139351847-cb1ab231-81ad-4580-9633-3a7bfc5e9c99.png">
-###  Analysis: 
+
+### Analysis: 
+
 <img width="865" alt="Screen Shot 2021-10-28 at 7 39 08 PM" src="https://user-images.githubusercontent.com/89117449/139351864-257bdd85-834a-47cd-a280-da1ff8dd79cd.png">
+
 # Findings: 
 ### Gender/Unemployment
 ### Race/Unemployment
