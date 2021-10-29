@@ -56,6 +56,7 @@ The following include snippets of what we did to clean and analyze the data.
 <img width="865" alt="Screen Shot 2021-10-28 at 7 39 08 PM" src="https://user-images.githubusercontent.com/89117449/139351864-257bdd85-834a-47cd-a280-da1ff8dd79cd.png">
 
 # Findings: 
+All of our findings came directly from the graphs. 
 ### Overall unemployment: 
 
 * Unemployment in the Dot-Com Recession steadily climbed from 4.3% in March 2001 to 5.5% in November 2001.
@@ -107,6 +108,8 @@ The following include snippets of what we did to clean and analyze the data.
 * The unemployment rate of those with a bachelor’s degree or greater in the COVID Recession began at 1.9% in February 2020 and peaked at 8.4% in April 2020.
 
 ### Conclusion:
+* P - Value: A p-value is a measure of the probability that an observed difference could have occurred just by random chance.
+* Typical values for are 0.1, 0.05, and 0.01. These values correspond to the probability of observing such an extreme value by chance.
 Although there are noted differences observed, the differences failed to reach significance. 
 
 ##### Dot Com:
