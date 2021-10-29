@@ -106,6 +106,23 @@ The following include snippets of what we did to clean and analyze the data.
 * The unemployment rate of those with some college or an associate’s degree in the COVID Recession began at 3% in February 2020 and peaked at 15% in April 2020.
 * The unemployment rate of those with a bachelor’s degree or greater in the COVID Recession began at 1.9% in February 2020 and peaked at 8.4% in April 2020.
 
+### Conclusion:
+Although there are noted differences observed, the differences failed to reach significance. 
+
+##### Dot Com:
+* Gender: critical value> statistic pvalue=0.28
+* Race: critical value> statistic pvalue=0.42
+* Education: critical value> statistic pvalue=0.22
+
+##### Great Recession:
+* Gender: critical value> statistic pvalue=0.77
+* Race: critical value> statistic pvalue=0.11
+* Education: critical value> statistic pvalue=0.18
+
+##### Covid:
+* Gender: critical value> statistic pvalue=0.5
+* Race: critical value> statistic pvalue=0.18
+* Education: critical value> statistic pvalue=0.11
 
 # Other uses for the code:
 While we did use our code to compare unemployment to other variables. Our code can be used to help other students compare other sets of data. It could serve as a base or template for other projects. 
