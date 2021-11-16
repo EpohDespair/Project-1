@@ -1,7 +1,7 @@
 # Analysis of US unemployment Data of the last three recessions
 
 # Overview: 
-For this project we cleaned and extracted data from our data source using Jupiter Notebook. By doing this, it allowed us to compare unemployment rates to various contributors . Some old the categories we look at  were education, gender, race and ethnicity. We had access to 20 years worth of data but focused on our past recessions. 
+For this project we cleaned and extracted data from our data source using Jupiter Notebook. By doing this, it allowed us to compare unemployment rates to various contributors . Some of the categories we looked at  were education, gender, race and ethnicity. We had access to 20 years worth of data but focused on our past recessions. 
 ### Importance:
 The purpose of the project was to demonstrate our skills in order to analyze and better understand a data set. As a group we decided to explore data regarding unemployment. Our data provided a baseline to what factors contribute to the jobless rate in the US for the last 20 years. This will help identify gaps in the labor participation and how to address issues of diversity, equity, and inclusion (DEI) and the future of employees in the US labor force. 
 ### Problem Statement:
